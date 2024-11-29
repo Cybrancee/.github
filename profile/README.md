@@ -9,7 +9,7 @@ Cybrancee is a hosting company that provides a variety of plans such as, includi
 
 ## Projects
 
-Some notible projects are:
+Some notable projects are:
 
 * Discord bot templates for [Python](https://github.com/Cybrancee/Cybrancee-Bot-Hosting-PY) and [Javascript](https://github.com/Cybrancee/Cybrancee-Bot-Hosting-JS)
 * GitHub action to restart discord bots hosted on cybrancee when changes are pushed to the repository. [Link](https://github.com/Cybrancee/Bot-Restart-Action)
