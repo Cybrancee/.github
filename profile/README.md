@@ -1,5 +1,5 @@
 <div align="center" class="header">
-  <img src="../media/Logo.png" alt="logo" />
+  <!--<img src="../media/Logo.png" alt="logo" />-->
   <h1>Cybrancee</h1>
 </div>
 
@@ -34,7 +34,7 @@ Want to join our community? We have a [Discord Server](https://discord.gg/cybran
 
 If you would like to get in touch, Please email us at support@cybrancee.com
 
-
+<!--
 <style>
 .header img {
   display: inline;
@@ -51,6 +51,8 @@ If you would like to get in touch, Please email us at support@cybrancee.com
 }
 
 </style>
+
+-->
 
 <!--
 
