@@ -1,0 +1,41 @@
+<h1 align="center">Cybrancee</h1>
+
+Cybrancee is a hosting company that provides a variety of plans such as, including Web hosting, Domain registration, Bot hosting, and Game hosting.
+
+## Projects
+
+Some notible projects are:
+
+* Discord bot templates for [Python](https://github.com/Cybrancee/Cybrancee-Bot-Hosting-PY) and [Javascript](https://github.com/Cybrancee/Cybrancee-Bot-Hosting-JS)
+* GitHub action to restart discord bots hosted on cybrancee when changes are pushed to the repository. [Link](https://github.com/Cybrancee/Bot-Restart-Action)
+
+## Tech Stack
+
+We utilise a dynamic technology stack for our projects. These include:
+
+* Javascript
+* Python
+* <s>PHP</s>
+
+## Contributing
+
+We welcome contributions from the community! If you would like to contribute to Cybrancee, please fork a repository and submit a pull request.
+
+## Community
+
+Want to join our community? We have a [Discord Server](https://discord.gg/cybrancee)!
+
+## Contact Information
+
+If you would like to get in touch, Please email us at support@cybrancee.com
+
+<!--
+
+**Here are some ideas to get you started:**
+
+🙋‍♀️ A short introduction - what is your organization all about?
+🌈 Contribution guidelines - how can the community get involved?
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+-->
