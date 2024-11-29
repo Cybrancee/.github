@@ -1,4 +1,9 @@
-<h1 align="center">Cybrancee</h1>
+<div align="center" class="header">
+  <img src="../media/Logo.png" alt="logo" />
+  <h1>Cybrancee</h1>
+</div>
+
+## Info
 
 Cybrancee is a hosting company that provides a variety of plans such as, including Web hosting, Domain registration, Bot hosting, and Game hosting.
 
@@ -28,6 +33,24 @@ Want to join our community? We have a [Discord Server](https://discord.gg/cybran
 ## Contact Information
 
 If you would like to get in touch, Please email us at support@cybrancee.com
+
+
+<style>
+.header img {
+  display: inline;
+  width: 50px;
+  height: 50px;
+  left: 10px;
+}
+
+.header h1 {
+  position: relative;
+  display: inline;
+  left: 10px;
+  bottom: 15px;
+}
+
+</style>
 
 <!--
 
