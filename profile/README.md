@@ -20,6 +20,7 @@ We utilise a dynamic technology stack for our projects. These include:
 
 * Javascript
 * Python
+* Docker
 * <s>PHP</s>
 
 ## Contributing
