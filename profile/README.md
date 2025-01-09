@@ -10,7 +10,7 @@
 
 Cybrancee is a hosting company that provides a variety of plans such as, including Web hosting, Domain registration, Bot hosting, and Game hosting.
 
-[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1q5xj.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v3/monitor/1q5xj.svg)](https://status.cybrancee.com)
 
 ## Projects
 
